@@ -18,6 +18,9 @@
 
 ---
 
+**部署问题可联系**
+senhai6@qq.com
+
 ### 🌟 特色亮点
 - **多链兼容**：支持 Ethereum/Polygon/BSC 等主流公链
 - **Gas优化**：采用 Layer2 解决方案降低交易成本
