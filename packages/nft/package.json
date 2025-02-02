@@ -1,0 +1,19 @@
+{
+  "name": "@se-2/nft",
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.5"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1",
+    "@types/cors": "^2",
+    "@types/express": "^4"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "type": "module"
+}
